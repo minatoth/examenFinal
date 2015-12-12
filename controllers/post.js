@@ -36,6 +36,3 @@ var contacto = models.Post.build (req.body.post);
      });  
 
 }
-//escribir el codigo para devolver respuesta
-
-//Escribir el codigo para guardar los datos
